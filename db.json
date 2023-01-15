@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "en": 
     {
-      "id": 1,
-      "title": "hello"
+      "name": "Name Remote",
+      "title": "Title Remote",
+      "content": "Contnt Remote"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
