@@ -1,12 +1,8 @@
 {
-  "en": [
+  "posts": [
     {
-      "en": 
-    {
-      "name": "Name Remote",
-      "title": "Title Remote",
-      "content": "Contnt Remote"
-    }
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
