@@ -1,8 +1,15 @@
 {
-  "en": 
+  "en": [
+    {
+      "en": 
     {
       "name": "Name Remote",
       "title": "Title Remote",
       "content": "Contnt Remote"
     }
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
