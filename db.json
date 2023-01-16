@@ -1,4 +1,15 @@
 {
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  
+  "profile": {
+    "name": "typicode"
+  },
+  
   "translation_file_1": {
     "en": 
     {
