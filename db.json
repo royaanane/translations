@@ -1,11 +1,20 @@
 {
-  "posts": [
+  "translation_file_1": {
+    "en": 
     {
-      "id": 1,
-      "title": "hello"
+      "name": "Name Remote",
+      "title": "Title Remote",
+      "content": "Content Remote"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  },
+  
+  "translation_file_2": {
+    "de": 
+    {
+      "name": "Name Remote",
+      "title": "Titel Remote",
+      "content": "Inhalt Remote"
+    }
+  },
+  
 }
