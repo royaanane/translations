@@ -4,7 +4,7 @@
       "type": "audios",
       "id": "1",
       "attributes": {
-        "title": "test_audio_1.mp3",
+        "title": "test_audio.mp3",
         "latitude": 52.5200,
         "longitude": 13.4050,
         "type": "story",
@@ -15,7 +15,7 @@
       "type": "audios",
       "id": "2",
       "attributes": {
-        "title": "test_audio_2.mp3",
+        "title": "test_audio.mp3",
         "latitude": 52.5200,
         "longitude": 13.40,
         "type": "story", 
