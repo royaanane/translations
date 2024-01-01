@@ -1,20 +1,27 @@
-{ 
-  "translation_file_1": {
-    "en": 
+{
+  "data": [
     {
-      "name": "Name Remote",
-      "title": "Title Remote",
-      "content": "Content Remote"
-    }
-  },
-  
-  "translation_file_2": {
-    "de": 
+      "type": "audios",
+      "id": "1",
+      "attributes": {
+        "title": "test_audio_1.mp3",
+        "latitude": 52.5200,
+        "longitude": 13.4050,
+        "type": "story",
+        "description": "Some Description 1"
+      }
+    },
     {
-      "name": "Name Remote",
-      "title": "Titel Remote",
-      "content": "Inhalt Remote"
+      "type": "audios",
+      "id": "2",
+      "attributes": {
+        "title": "test_audio_2.mp3",
+        "latitude": 52.5200,
+        "longitude": 13.40,
+        "type": "story", 
+        "description": "Some Description 2"
+      }
     }
-  }
-  
+  ]
 }
+
