@@ -8,7 +8,7 @@
         "latitude": 52.5200,
         "longitude": 13.4050,
         "type": "story",
-        "description": "Harry audio description here"
+        "description": "Harrys audio description here"
       }
     },
     {
@@ -87,6 +87,40 @@
         "type": "story",
         "description": "Some Description 8"
       }
+    },
+    {
+      "type": "audios",
+      "id": "9",
+      "attributes": {
+        "title": "test_audio.mp3",
+        "latitude": 52.5162,
+        "longitude": 13.3702,
+        "type": "story",
+        "description": "Some Description 9"
+      }
+    },
+    {
+      "type": "audios",
+      "id": "10",
+      "attributes": {
+        "title": "test_audio.mp3",
+        "latitude": 52.5257,
+        "longitude": 13.4025,
+        "type": "story",
+        "description": "Some Description 10"
+      }
+    },
+    {
+      "type": "audios",
+      "id": "11",
+      "attributes": {
+        "title": "test_audio.mp3",
+        "latitude": 52.4759,
+        "longitude": 13.4142,
+        "type": "story",
+        "description": "Some Description 11"
+      }
     }
   ]
 }
+
