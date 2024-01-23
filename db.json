@@ -8,7 +8,7 @@
         "latitude": 52.5200,
         "longitude": 13.4050,
         "type": "story",
-        "description": "Harry's "
+        "description": "Harry's audio description here"
       }
     },
     {
@@ -18,89 +18,75 @@
         "title": "test_audio.mp3",
         "latitude": 52.5200,
         "longitude": 13.40,
-        "type": "story", 
-        "description": "Some Description 2"
-      }
-    }, 
-    ,
-    {
-      "type": "audios",
-      "id": "2",
-      "attributes": {
-        "title": "test_audio.mp3",
-        "latitude": 52.5200,
-        "longitude": 13.40,
-        "type": "story", 
+        "type": "story",
         "description": "Some Description 2"
       }
     },
-    ,
     {
       "type": "audios",
-      "id": "2",
+      "id": "3",
       "attributes": {
         "title": "test_audio.mp3",
         "latitude": 52.5140,
         "longitude": 13.3876,
-        "type": "story", 
-        "description": "Some Description 2"
+        "type": "story",
+        "description": "Some Description 3"
       }
     },
     {
       "type": "audios",
-      "id": "2",
+      "id": "4",
       "attributes": {
         "title": "test_audio.mp3",
         "latitude": 52.5276,
         "longitude": 13.3475,
-        "type": "story", 
-        "description": "Some Description 2"
+        "type": "story",
+        "description": "Some Description 4"
       }
     },
     {
       "type": "audios",
-      "id": "2",
+      "id": "5",
       "attributes": {
         "title": "test_audio.mp3",
         "latitude": 52.5417,
         "longitude": 13.3794,
-        "type": "story", 
-        "description": "Some Description 2"
+        "type": "story",
+        "description": "Some Description 5"
       }
     },
     {
       "type": "audios",
-      "id": "2",
+      "id": "6",
       "attributes": {
         "title": "test_audio.mp3",
         "latitude": 52.5473,
         "longitude": 13.3998,
-        "type": "story", 
-        "description": "Some Description 2"
+        "type": "story",
+        "description": "Some Description 6"
       }
     },
     {
       "type": "audios",
-      "id": "2",
+      "id": "7",
       "attributes": {
         "title": "test_audio.mp3",
         "latitude": 52.5017,
         "longitude": 13.3713,
-        "type": "story", 
-        "description": "Some Description 2"
+        "type": "story",
+        "description": "Some Description 7"
       }
     },
     {
       "type": "audios",
-      "id": "2",
+      "id": "8",
       "attributes": {
         "title": "test_audio.mp3",
         "latitude": 52.5386,
         "longitude": 13.3759,
-        "type": "story", 
-        "description": "Some Description 2"
+        "type": "story",
+        "description": "Some Description 8"
       }
     }
   ]
 }
-
