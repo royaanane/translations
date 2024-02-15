@@ -8,7 +8,7 @@
         "latitude": 52.5200,
         "longitude": 13.4050,
         "type": "story",
-        "description": "Harrys audio description here"
+        "description": "Harrys art odyssey"
       }
     },
     {
@@ -19,7 +19,7 @@
         "latitude": 52.5200,
         "longitude": 13.40,
         "type": "story",
-        "description": "Some Description 2"
+        "description": "A little story about the Dom"
       }
     },
     {
@@ -30,7 +30,7 @@
         "latitude": 52.5140,
         "longitude": 13.3876,
         "type": "story",
-        "description": "Some Description 3"
+        "description": "Childhood and abandoned embassy"
       }
     },
     {
@@ -41,7 +41,7 @@
         "latitude": 52.5276,
         "longitude": 13.3475,
         "type": "story",
-        "description": "Some Description 4"
+        "description": "Why Berlin?"
       }
     },
     {
@@ -52,7 +52,7 @@
         "latitude": 52.5417,
         "longitude": 13.3794,
         "type": "story",
-        "description": "Some Description 5"
+        "description": "Biking by the Wall"
       }
     },
     {
@@ -63,7 +63,7 @@
         "latitude": 52.5473,
         "longitude": 13.3998,
         "type": "story",
-        "description": "Some Description 6"
+        "description": "My Turkish Friend"
       }
     },
     {
@@ -74,7 +74,7 @@
         "latitude": 52.5017,
         "longitude": 13.3713,
         "type": "story",
-        "description": "Some Description 7"
+        "description": "Adding meaning to the chaos"
       }
     },
     {
@@ -96,7 +96,7 @@
         "latitude": 52.5162,
         "longitude": 13.3702,
         "type": "story",
-        "description": "Some Description 9"
+        "description": "Maks's Kreuzberg"
       }
     },
     {
@@ -107,7 +107,7 @@
         "latitude": 52.5257,
         "longitude": 13.4025,
         "type": "story",
-        "description": "Some Description 10"
+        "description": "Trouble in Paradise"
       }
     },
     {
@@ -118,7 +118,7 @@
         "latitude": 52.4759,
         "longitude": 13.4142,
         "type": "story",
-        "description": "Some Description 11"
+        "description": "An alleyway to the past"
       }
     }
   ]
