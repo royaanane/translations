@@ -8,7 +8,8 @@
         "latitude": 52.5200,
         "longitude": 13.4050,
         "type": "story",
-        "description": "Harrys art odyssey"
+        "description": "Harrys art odyssey",
+        "type": "history"
       }
     },
     {
@@ -18,7 +19,7 @@
         "title": "test_audio.mp3",
         "latitude": 52.5200,
         "longitude": 13.40,
-        "type": "story",
+        "type": "local",
         "description": "A little story about the Dom"
       }
     },
@@ -29,7 +30,7 @@
         "title": "test_audio.mp3",
         "latitude": 52.5140,
         "longitude": 13.3876,
-        "type": "story",
+        "type": "history",
         "description": "Childhood and abandoned embassy"
       }
     },
@@ -40,7 +41,7 @@
         "title": "test_audio.mp3",
         "latitude": 52.5276,
         "longitude": 13.3475,
-        "type": "story",
+        "type": "history",
         "description": "Why Berlin?"
       }
     },
@@ -51,7 +52,7 @@
         "title": "test_audio.mp3",
         "latitude": 52.5417,
         "longitude": 13.3794,
-        "type": "story",
+        "type": "local",
         "description": "Biking by the Wall"
       }
     },
@@ -62,7 +63,7 @@
         "title": "test_audio.mp3",
         "latitude": 52.5473,
         "longitude": 13.3998,
-        "type": "story",
+        "type": "history",
         "description": "My Turkish Friend"
       }
     },
@@ -73,7 +74,7 @@
         "title": "test_audio.mp3",
         "latitude": 52.5017,
         "longitude": 13.3713,
-        "type": "story",
+        "type": "local",
         "description": "Adding meaning to the chaos"
       }
     },
@@ -84,7 +85,7 @@
         "title": "test_audio.mp3",
         "latitude": 52.5386,
         "longitude": 13.3759,
-        "type": "story",
+        "type": "history",
         "description": "Harry's Artistic Odyssey"
       }
     },
@@ -95,7 +96,7 @@
         "title": "test_audio.mp3",
         "latitude": 52.5162,
         "longitude": 13.3702,
-        "type": "story",
+        "type": "local",
         "description": "Maks's Kreuzberg"
       }
     },
@@ -106,7 +107,7 @@
         "title": "test_audio.mp3",
         "latitude": 52.5257,
         "longitude": 13.4025,
-        "type": "story",
+        "type": "local",
         "description": "Trouble in Paradise"
       }
     },
@@ -117,7 +118,7 @@
         "title": "test_audio.mp3",
         "latitude": 52.4759,
         "longitude": 13.4142,
-        "type": "story",
+        "type": "local",
         "description": "An alleyway to the past"
       }
     }
