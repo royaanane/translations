@@ -16,11 +16,11 @@
       "type": "audios",
       "id": "2",
       "attributes": {
-        "title": "test_audio.mp3",
-        "latitude": 52.5200,
-        "longitude": 13.40,
+        "title": "maks_reinickendorf.mp3",
+        "latitude": 52.5790422,
+        "longitude": 13.2805353,
         "type": "local",
-        "description": "A little story about the Dom"
+        "description": "Maks's Kindergarten Days"
       }
     },
     {
