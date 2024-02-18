@@ -27,11 +27,11 @@
       "type": "audios",
       "id": "3",
       "attributes": {
-        "title": "test_audio.mp3",
-        "latitude": 52.5140,
-        "longitude": 13.3876,
+        "title": "street_art_alley.mp3",
+        "latitude": 52.524261,
+        "longitude": 13.4026214,
         "type": "history",
-        "description": "Childhood and abandoned embassy"
+        "description": "Peak into the past"
       }
     },
     {
