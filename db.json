@@ -4,7 +4,7 @@
       "type": "audios",
       "id": "1",
       "attributes": {
-        "title": "test_audio.mp3",
+        "title": "abandoned_iraq_embassy.mp3",
         "latitude": 52.5200,
         "longitude": 13.4050,
         "type": "story",
@@ -38,7 +38,7 @@
       "type": "audios",
       "id": "4",
       "attributes": {
-        "title": "test_audio.mp3",
+        "title": "abandoned_iraq_embassy.mp3",
         "latitude": 52.5276,
         "longitude": 13.3475,
         "type": "history",
@@ -49,7 +49,7 @@
       "type": "audios",
       "id": "5",
       "attributes": {
-        "title": "test_audio.mp3",
+        "title": "abandoned_iraq_embassy.mp3",
         "latitude": 52.5417,
         "longitude": 13.3794,
         "type": "local",
@@ -71,7 +71,7 @@
       "type": "audios",
       "id": "7",
       "attributes": {
-        "title": "test_audio.mp3",
+        "title": "abandoned_iraq_embassy.mp3",
         "latitude": 52.5017,
         "longitude": 13.3713,
         "type": "local",
@@ -80,42 +80,9 @@
     },
     {
       "type": "audios",
-      "id": "8",
-      "attributes": {
-        "title": "test_audio.mp3",
-        "latitude": 52.5386,
-        "longitude": 13.3759,
-        "type": "history",
-        "description": "Harry's Artistic Odyssey"
-      }
-    },
-    {
-      "type": "audios",
-      "id": "9",
-      "attributes": {
-        "title": "test_audio.mp3",
-        "latitude": 52.5162,
-        "longitude": 13.3702,
-        "type": "local",
-        "description": "Maks's Kreuzberg"
-      }
-    },
-    {
-      "type": "audios",
-      "id": "10",
-      "attributes": {
-        "title": "test_audio.mp3",
-        "latitude": 52.5257,
-        "longitude": 13.4025,
-        "type": "local",
-        "description": "Trouble in Paradise"
-      }
-    },
-    {
-      "type": "audios",
       "id": "11",
       "attributes": {
-        "title": "test_audio.mp3",
+        "title": "abandoned_iraq_embassy.mp3",
         "latitude": 52.4759,
         "longitude": 13.4142,
         "type": "local",
