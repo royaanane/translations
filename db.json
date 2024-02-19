@@ -2,25 +2,14 @@
   "data": [
     {
       "type": "audios",
-      "id": "1",
-      "attributes": {
-        "title": "abandoned_iraq_embassy.mp3",
-        "latitude": 52.5200,
-        "longitude": 13.4050,
-        "type": "story",
-        "description": "Harrys art odyssey",
-        "type": "history"
-      }
-    },
-    {
-      "type": "audios",
       "id": "2",
       "attributes": {
         "title": "maks_reinickendorf.mp3",
         "latitude": 52.5790422,
         "longitude": 13.2805353,
         "type": "local",
-        "description": "Maks's Kindergarten Days"
+        "description": "Maks's Kindergarten Days",
+        "images": ["https://picsum.photos/200/300", "https://picsum.photos/200/300", "https://picsum.photos/200/300"]
       }
     },
     {
@@ -31,29 +20,8 @@
         "latitude": 52.524261,
         "longitude": 13.4026214,
         "type": "history",
-        "description": "Peak into the past"
-      }
-    },
-    {
-      "type": "audios",
-      "id": "4",
-      "attributes": {
-        "title": "abandoned_iraq_embassy.mp3",
-        "latitude": 52.5276,
-        "longitude": 13.3475,
-        "type": "history",
-        "description": "Why Berlin?"
-      }
-    },
-    {
-      "type": "audios",
-      "id": "5",
-      "attributes": {
-        "title": "abandoned_iraq_embassy.mp3",
-        "latitude": 52.5417,
-        "longitude": 13.3794,
-        "type": "local",
-        "description": "Biking by the Wall"
+        "description": "Peak into the past",
+        "images": ["https://picsum.photos/200/300", "https://picsum.photos/200/300", "https://picsum.photos/200/300"]
       }
     },
     {
@@ -64,29 +32,8 @@
         "latitude": 52.5757,
         "longitude": 13.3949,
         "type": "local",
-        "description": "Abandoned Iraq Embassy"
-      }
-    },
-    {
-      "type": "audios",
-      "id": "7",
-      "attributes": {
-        "title": "abandoned_iraq_embassy.mp3",
-        "latitude": 52.5017,
-        "longitude": 13.3713,
-        "type": "local",
-        "description": "Adding meaning to the chaos"
-      }
-    },
-    {
-      "type": "audios",
-      "id": "11",
-      "attributes": {
-        "title": "abandoned_iraq_embassy.mp3",
-        "latitude": 52.4759,
-        "longitude": 13.4142,
-        "type": "local",
-        "description": "An alleyway to the past"
+        "description": "Abandoned Iraq Embassy",
+        "images": ["https://picsum.photos/200/300", "https://picsum.photos/200/300", "https://picsum.photos/200/300"]
       }
     }
   ]
