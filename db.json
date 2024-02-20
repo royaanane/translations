@@ -7,7 +7,19 @@
         "title": "maks_reinickendorf.mp3",
         "latitude": 52.5790422,
         "longitude": 13.2805353,
-        "type": "local",
+        "type": "guy-one",
+        "description": "Maks's Kindergarten Days",
+        "images": ["https://picsum.photos/200/300", "https://picsum.photos/200/300", "https://picsum.photos/200/300"]
+      }
+    },
+    {
+      "type": "audios",
+      "id": "2",
+      "attributes": {
+        "title": "maks_reinickendorf.mp3",
+        "latitude": 52.5890422,
+        "longitude": 13.2805353,
+        "type": "guy-two",
         "description": "Maks's Kindergarten Days",
         "images": ["https://picsum.photos/200/300", "https://picsum.photos/200/300", "https://picsum.photos/200/300"]
       }
@@ -19,7 +31,7 @@
         "title": "street_art_alley_1.mp3",
         "latitude": 52.524261,
         "longitude": 13.4026214,
-        "type": "history",
+        "type": "street-art",
         "description": "Peak into the past",
         "images": ["https://picsum.photos/200/300", "https://picsum.photos/200/300", "https://picsum.photos/200/300"]
       }
@@ -31,7 +43,7 @@
         "title": "abandoned_iraq_embassy.mp3",
         "latitude": 52.5757,
         "longitude": 13.3949,
-        "type": "local",
+        "type": "guy-two",
         "description": "Abandoned Iraq Embassy",
         "images": ["https://picsum.photos/200/300", "https://picsum.photos/200/300", "https://picsum.photos/200/300"]
       }
