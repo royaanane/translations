@@ -9,7 +9,7 @@
         "longitude": 13.2805353,
         "type": "guy-one",
         "description": "Maks's Kindergarten Days",
-        "images": ["https://picsum.photos/200/300", "https://picsum.photos/200/300", "https://picsum.photos/200/300"]
+        "images": ["streetartalley1.png", "streetartalley2.png", "streetartalley3.png"]
       }
     },
     {
@@ -21,7 +21,7 @@
         "longitude": 13.4026214,
         "type": "street-art",
         "description": "Peak into the past",
-        "images": ["https://picsum.photos/200/300", "https://picsum.photos/200/300", "https://picsum.photos/200/300"]
+        "images": ["streetartalley1.png", "streetartalley2.png", "streetartalley3.png"]
       }
     },
     {
@@ -33,7 +33,7 @@
         "longitude": 13.3949,
         "type": "guy-two",
         "description": "Abandoned Iraq Embassy",
-        "images": ["https://picsum.photos/200/300", "https://picsum.photos/200/300", "https://picsum.photos/200/300"]
+        "images": ["streetartalley1.png", "streetartalley2.png", "streetartalley3.png"]
       }
     },
     {
@@ -45,7 +45,7 @@
         "longitude": 13.3131629,
         "type": "cathedral",
         "description": "Urban Exploration: Hidden Gems",
-        "images": ["https://picsum.photos/200/300", "https://picsum.photos/200/300", "https://picsum.photos/200/300"]
+        "images": ["streetartalley1.png", "streetartalley2.png", "streetartalley3.png"]
       }
     }
   ]
