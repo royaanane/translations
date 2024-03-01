@@ -7,7 +7,7 @@
         "title": "maks_childhood_1.mp3",
         "latitude": 52.5790422,
         "longitude": 13.2805353,
-        "type": "guy-one",
+        "picture": "guy-one",
         "description": "Maks's Kindergarten Days",
         "images": ["streetartalley1.png", "streetartalley2.png", "streetartalley3.png"]
       }
@@ -19,7 +19,7 @@
         "title": "street_art_alley_1.mp3",
         "latitude": 52.524261,
         "longitude": 13.4026214,
-        "type": "street-art",
+        "picture": "street-art",
         "description": "Peak into the past",
         "images": ["streetartalley1.png", "streetartalley2.png", "streetartalley3.png"]
       }
@@ -31,7 +31,7 @@
         "title": "iraq_abandoned_embassy_2.mp3",
         "latitude": 52.5757,
         "longitude": 13.3949,
-        "type": "guy-two",
+        "picture": "guy-two",
         "description": "Abandoned Iraq Embassy",
         "images": ["streetartalley1.png", "streetartalley2.png", "streetartalley3.png"]
       }
@@ -40,11 +40,11 @@
       "type": "audios",
       "id": "7",
       "attributes": {
-        "title": "urban_exploration_1.mp3",
-        "latitude": 52.5833306,
-        "longitude": 13.3131629,
-        "type": "cathedral",
-        "description": "Urban Exploration: Hidden Gems",
+        "title": "D**k pics and Sundays at Mauer Park",
+        "latitude": 52.5427179,
+        "longitude": 13.402652,
+        "picture": "zefi",
+        "description": "D**k pics and Sundays at Mauer Park",
         "images": ["streetartalley1.png", "streetartalley2.png", "streetartalley3.png"]
       }
     }
