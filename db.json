@@ -2,6 +2,18 @@
   "data": [
     {
       "type": "audios",
+      "id": "1",
+      "attributes": {
+        "title": "zefi_f_kreuz_2.mp3",
+        "latitude": 52.5006,
+        "longitude": 13.4469,
+        "picture": "zefi",
+        "description": "Growing up in Fhain-Xberg",
+        "images": ["streetartalley1.png", "streetartalley2.png", "streetartalley3.png"]
+      }
+    },
+    {
+      "type": "audios",
       "id": "2",
       "attributes": {
         "title": "maks_childhood_1.mp3",
