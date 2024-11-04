@@ -1,64 +1,20 @@
 {
   "data": [
-    {
-      "type": "audios",
-      "id": "1",
-      "attributes": {
-        "title": "zefi_f_kreuz_2.mp3",
-        "latitude": 52.5018624,
-        "longitude": 13.4457112,
-        "picture": "zefi",
-        "description": "Growing up in Fhain-Xberg",
-        "images": ["streetartalley1.png", "streetartalley2.png", "streetartalley3.png"]
-      }
-    },
-    {
-      "type": "audios",
-      "id": "2",
-      "attributes": {
-        "title": "maks_childhood_1.mp3",
-        "latitude": 52.5790422,
-        "longitude": 13.2805353,
-        "picture": "guy-one",
-        "description": "Maks's Kindergarten Days",
-        "images": ["streetartalley1.png", "streetartalley2.png", "streetartalley3.png"]
-      }
-    },
-    {
-      "type": "audios",
-      "id": "3",
-      "attributes": {
-        "title": "street_art_alley_1.mp3",
-        "latitude": 52.524261,
-        "longitude": 13.4026214,
-        "picture": "street-art",
-        "description": "Peak into the past",
-        "images": ["streetartalley1.png", "streetartalley2.png", "streetartalley3.png"]
-      }
-    },
-    {
-      "type": "audios",
-      "id": "6",
-      "attributes": {
-        "title": "iraq_abandoned_embassy_2.mp3",
-        "latitude": 52.5757,
-        "longitude": 13.3949,
-        "picture": "guy-two",
-        "description": "Abandoned Iraq Embassy",
-        "images": ["streetartalley1.png", "streetartalley2.png", "streetartalley3.png"]
-      }
-    },
-    {
-      "type": "audios",
-      "id": "7",
-      "attributes": {
-        "title": "zefi_mauerpark.mp3",
-        "latitude": 52.5427179,
-        "longitude": 13.402652,
-        "picture": "zefi",
-        "description": "D**k pics & Sundays at Mauer Park",
-        "images": ["streetartalley1.png", "streetartalley2.png", "streetartalley3.png"]
-      }
+    "translation_file_1": {
+  "en":
+   {
+     "name": "Name",
+      "title": "Title",
+      "content": "Content"
     }
+ },
+    "translation_file_2": {
+  "en":
+   {
+     "name": "AnotherName",
+      "title": "AnotherTitle",
+      "content": "OtherContent"
+    }
+ }
   ]
 }
