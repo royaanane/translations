@@ -1,20 +1,19 @@
 {
-  "data": [
+  "data": {
     "translation_file_1": {
-  "en":
-   {
-     "name": "Name",
-      "title": "Title",
-      "content": "Content"
-    }
- },
+      "en": {
+        "name": "Name",
+        "title": "Title",
+        "content": "Content"
+      }
+    },
     "translation_file_2": {
-  "en":
-   {
-     "name": "AnotherName",
-      "title": "AnotherTitle",
-      "content": "OtherContent"
+      "en": {
+        "name": "AnotherName",
+        "title": "AnotherTitle",
+        "content": "OtherContent"
+      }
     }
- }
-  ]
+  }
 }
+
